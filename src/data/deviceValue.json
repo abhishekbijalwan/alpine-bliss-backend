@@ -1,0 +1,74 @@
+{
+    "iphone": {
+      "retailPrice": 999,
+      "ageValueMultiplier": {
+        "0-1": 0.9,
+        "1-2": 0.75,
+        "2-3": 0.5
+      }
+    },
+    "samsung": {
+      "retailPrice": 899,
+      "ageValueMultiplier": {
+        "0-1": 0.85,
+        "1-2": 0.7,
+        "2-3": 0.55
+      }
+    },
+    "ipad": {
+      "retailPrice": 799,
+      "ageValueMultiplier": {
+        "0-1": 0.88,
+        "1-2": 0.73,
+        "2-3": 0.6
+      }
+    },
+    "macbook": {
+      "retailPrice": 1299,
+      "ageValueMultiplier": {
+        "0-1": 0.92,
+        "1-2": 0.8,
+        "2-3": 0.65
+      }
+    },
+    "delllaptop": {
+      "retailPrice": 1199,
+      "ageValueMultiplier": {
+        "0-1": 0.9,
+        "1-2": 0.78,
+        "2-3": 0.6
+      }
+    },
+    "pixel": {
+      "retailPrice": 799,
+      "ageValueMultiplier": {
+        "0-1": 0.87,
+        "1-2": 0.7,
+        "2-3": 0.55
+      }
+    },
+    "desktop": {
+      "retailPrice": 999,
+      "ageValueMultiplier": {
+        "0-1": 0.9,
+        "1-2": 0.75,
+        "2-3": 0.6
+      }
+    },
+    "mobile": {
+      "retailPrice": 999,
+      "ageValueMultiplier": {
+        "0-1": 0.9,
+        "1-2": 0.75,
+        "2-3": 0.6
+      }
+    },
+    "oneplus": {
+      "retailPrice": 699,
+      "ageValueMultiplier": {
+        "0-1": 0.85,
+        "1-2": 0.7,
+        "2-3": 0.55
+      }
+    }
+  }
